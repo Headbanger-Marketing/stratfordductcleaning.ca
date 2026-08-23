@@ -1,2 +1,25 @@
 # Stratford Duct Cleaning
-HVAC services in Ontario.
+
+> Stratford Duct Cleaning is a local HVAC company serving Stratford, Perth, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 490-0267  |  Email: contact@stratfordductcleaning.ca  |  Website: https://stratfordductcleaning.ca
+
+## Key pages
+
+- [Home](https://stratfordductcleaning.ca/): Stratford Duct Cleaning homepage with service overview and FAQ
+- [About](https://stratfordductcleaning.ca/about/): About the company and service area
+- [Contact](https://stratfordductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://stratfordductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Stratford, Ontario
+- [Dryer Vent Cleaning](https://stratfordductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Stratford, Ontario
+- [Furnace & AC Cleaning](https://stratfordductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Stratford, Ontario
+- [HRV & Ventilation Cleaning](https://stratfordductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Stratford, Ontario
+- [Duct Sanitizing & Deodorizing](https://stratfordductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Stratford, Ontario
+- [Duct Sealing & Repair](https://stratfordductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Stratford, Ontario
+- [Commercial Duct Cleaning](https://stratfordductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Stratford, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Stratford are answered on the homepage.
